@@ -4,7 +4,7 @@ This branch is for week 4 assignment on open source federated learning assigment
 > 2. FedBranch
 
 
-**FedScale Testing**
+## FedScale Testing
 
 Used dataset: FEMNIST
 
@@ -17,5 +17,8 @@ Steps to reproduce results:
 
 1. `from fedscale.core.logger.execution import args` will be chnaged to `from fedscale.core.config_parser import args`
 
+## FedBench Testing
 
+For example, I run `FedAvg.py`
 
+The output for **300 epochs** are saved in `fedavg.out`.
