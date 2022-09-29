@@ -19,6 +19,10 @@ Steps to reproduce results:
 
 ## FedBench Testing
 
+Used dataset: FEMNIST
+
 For example, I run `FedAvg.py`
 
 The output for **300 epochs** are saved in `fedavg.out`.
+
+> 1. Outputs are saved `.result` folder in `.csv` format.
