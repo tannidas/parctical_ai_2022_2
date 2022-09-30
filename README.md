@@ -1,4 +1,4 @@
-# parctical_ai_2022_2
+# Week 4 (Practical AI)
 This branch is for week 4 assignment on open source federated learning assigment
 > 1. FedScale
 > 2. FedBranch
